@@ -11,9 +11,9 @@
 
 body {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr;
   place-items: center;
-  min-height: 100svh;
+  min-height: 100vh;
   background-color: #050505;
   animation: bodyani 10s linear infinite;
 }
